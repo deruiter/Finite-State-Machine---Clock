@@ -1,5 +1,5 @@
 # Finite-State-Machine---Clock
-My little clock project using a Finite State Machine
+My -far from finished!- little clock project using a Finite State Machine
 
 I urge Arduino toddlers to take a look at the AMZING Finite State Machine for coding their Arduino projects!
 
